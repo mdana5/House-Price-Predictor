@@ -1,7 +1,7 @@
 #  HOUSE PRICE PREDICTION - MACHINE LEARNING PROJECT
 
 ## LIVE DEMO :
-[https://housepricepredictor2026.streamlit.app/](https://house-price-predictor-ana5.streamlit.app/)
+https://house-price-predictor-ana5.streamlit.app/
 
 ---
 
